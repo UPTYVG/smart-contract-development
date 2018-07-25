@@ -1,0 +1,17 @@
+---
+title: Mobile Pay
+subtitle: Full Stack Development
+layout: default
+modal-id: 5
+date: 2014-07-18
+img: BeamLabs_MobilePay.png
+thumbnail: BeamLabs_MobilePay.png
+alt: image-alt
+project-date: June 2015 - April 2016
+client: NCR
+category: Full Stack Web Development
+website: http://otb.ncrpay.com/
+description: This project is a mobile responsive website that enables restaurant customers to pay for their bill from the convenience of their mobile phone. This service uses web communications to streamline the checkout process and enhance the customer experience. Primary duties for this project included maintenance of existing code base and updates to functionality such as supporting gift/loyalty cards and signature capturing.
+tools: C#, ASP.net WebAPI, Moq, CastleWindsor, ASP.net MVC, SOAP/RESTful web services, CouchBase, MySQL 
+
+---
