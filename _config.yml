@@ -1,35 +1,35 @@
-url: http://beamlabs.net/
+url: http://sm.evg-soft.com
 baseurl:
 
 # Site settings
-title: Beam Labs
-email: agiron123@gmail.com
-description: "Official home page of Beam Labs."
+title: Evgsoft
+email: info@evg-soft.com
+description: "Smart-contract Development"
 
 # Team names, titles and social links
 people:
-- name: Andre Giron
+- name: Yevhen Bilous
   pic: andre
   position: Founder
   social:
     - title: github
-      url: http://github.com/agiron123
+      url: http://github.com/
     - title: twitter
-      url: https://twitter.com/agiron_78
+      url: https://twitter.com/
     - title: linkedin
-      url: https://www.linkedin.com/in/andre-giron-bb921943
+      url: https://www.linkedin.com/in/eugene_belous
     - title: file-o # Resume information
-      url: http://andregiron.me/assets/Docs/ANDRE_GIRON_RESUME.pdf
-  specialization: I create websites using the latest technologies, and specialize in JavaScript and NodeJS development, using web frameworks like React, Angular, and Express. I’ve worked on a wide range of solo and collaborative projects, and am eager to come up with a customized solution to your development needs. For more information, visit my personal website. (http://andregiron.me)
+      url: http://XXXX.me/
+  specialization: I create smart-contracts for Ethereum blockchain network.
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
-    url: http://github.com/BeamLabs
+    url: http://github.com/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Atlanta
+  - line: Los Angeles
 
 # Build settings
 markdown: kramdown
